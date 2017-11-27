@@ -1,0 +1,7 @@
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\bin\Debug\PieFactory.exe.config
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\bin\Debug\PieFactory.exe
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\bin\Debug\PieFactory.pdb
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\obj\Debug\PieFactory.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\obj\Debug\PieFactory.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\obj\Debug\PieFactory.exe
+C:\Users\Valentin\source\repos\PieFactory\PieFactory\obj\Debug\PieFactory.pdb
